@@ -1,0 +1,1 @@
+The project is a demo of my blog: [Ubuntu下使用VS Code创建Spring Boot工程](https://congtou.yangcq.xyz/ubuntu_vs-code_spring-boot_project/)
